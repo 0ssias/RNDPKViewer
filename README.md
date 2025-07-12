@@ -4,7 +4,7 @@ Step 1 - Download the files in the repertory.
 
 Step 2 - Make sure you have the socket, tkinter, threading, time, os and PIL python module installed. Most of these are installed per default but some of them (Mostly PIL and socket) may not be installed at first. A quick pip install should be enough for them. 
 
-Step 3 - Modify the python script so it opens the correct log file. (It will try to read a log.log file first.)
+Step 3 - Modify the python script so it opens the correct log file. (It will try to read a log.log file first , which is the default one provided in the project.)
 
 Step 4 - Execute the python script.
 
